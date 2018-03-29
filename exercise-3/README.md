@@ -9,3 +9,6 @@ In your `README.md` document, provide some information about a terminal command 
 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
 
+_pwd_ -> print working directory
+
+to print the current directory
